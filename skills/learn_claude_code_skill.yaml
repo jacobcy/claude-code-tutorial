@@ -1,0 +1,16 @@
+name: learn-claude-code
+description: Main interactive tutorial entry for Claude Code
+version: 1.0.0
+author: Claude Code Tutorial
+usage: |
+  /learn-claude-code - Starts the main interactive tutorial
+
+  This command provides an interactive introduction to Claude Code,
+  covering basic concepts, navigation, and essential commands.
+parameters: []
+examples:
+  - command: /learn-claude-code
+    description: Start the interactive Claude Code tutorial
+handler:
+  type: script
+  path: ./scripts/interactive_tutorial.sh

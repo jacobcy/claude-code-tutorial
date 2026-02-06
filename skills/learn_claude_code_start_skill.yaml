@@ -1,0 +1,16 @@
+name: learn-claude-code-start
+description: Beginner tutorial for Claude Code
+version: 1.0.0
+author: Claude Code Tutorial
+usage: |
+  /learn-claude-code start - Launches the beginner Claude Code tutorial
+
+  This command starts a guided tutorial for beginners,
+  introducing core Claude Code concepts and basic usage patterns.
+parameters: []
+examples:
+  - command: /learn-claude-code start
+    description: Start the beginner Claude Code tutorial
+handler:
+  type: script
+  path: ./scripts/beginner_tutorial.sh
