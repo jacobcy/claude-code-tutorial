@@ -77,7 +77,4 @@ A: Document in PR/commit messages. Some organizations have specific requirements
 ## Related Commands
 - `/helper:ask How do I create a rollback plan?`
 - `/helper:ask What security checks should I do?`
-- `/learn-claude-advanced safety`
-
-## Go Deeper
-For production readiness patterns, see: `main/docs/best_practices.md`
+- `/helper:guide team` — Team collaboration patterns

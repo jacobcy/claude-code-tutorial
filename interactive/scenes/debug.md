@@ -74,6 +74,3 @@ A: Break it down. Update TASK.md to focus on the first piece, work through it, t
 - `/helper:ask How do I get Claude unstuck?`
 - `/helper:ask How do I structure an error report?`
 - `/helper:ask What if Claude keeps getting it wrong?`
-
-## Go Deeper
-For advanced debugging patterns, see: `main/docs/best_practices.md` and `/learn-claude-advanced safety`

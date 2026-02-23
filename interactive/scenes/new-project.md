@@ -87,8 +87,4 @@ A: Refer it back to TASK.md. You can also use AGENT_RULES.md to explicitly forbi
 ## Related Commands
 - `/helper:ask How do I write a good TASK.md?`
 - `/helper:ask What should I include in AGENT_RULES.md?`
-- `/learn-claude-code tasks` — Detailed TASK.md tutorial
-- `/learn-claude-code rules` — AGENT_RULES.md tutorial
-
-## Go Deeper
-For comprehensive task definition techniques, see: `main/templates/TASK.md` and `/learn-claude-code tasks`
+- `/helper:guide debug` — Troubleshooting if something goes wrong

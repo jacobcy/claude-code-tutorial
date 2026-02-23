@@ -67,7 +67,4 @@ A: Yes, commit TASK.md to the repo. This keeps everyone aligned on current scope
 ## Related Commands
 - `/helper:ask How do I document Claude-generated code?`
 - `/helper:ask What should go in team AGENT_RULES.md?`
-- `/learn-claude-advanced best-practices`
-
-## Go Deeper
-For enterprise collaboration patterns, see: `main/docs/best_practices.md` and `/learn-claude-advanced safety`
+- `/helper:guide deploy` — Pre-release checklist

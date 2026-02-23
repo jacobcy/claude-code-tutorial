@@ -99,8 +99,3 @@ A: No. Worktrees are for concurrent work on the same repo. Single-task workflows
 ## Related Commands
 - `/helper:ask How do I resolve worktree merge conflicts?`
 - `/helper:ask What's the max number of worktrees I should use?`
-- `/learn-claude-advanced worktrees`
-- `/learn-claude-advanced parallel`
-
-## Go Deeper
-For advanced worktree patterns, see: `main/docs/parallel_work.md` and `/learn-claude-advanced worktrees`
